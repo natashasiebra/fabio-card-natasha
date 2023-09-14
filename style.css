@@ -96,9 +96,9 @@ body {
 .vingadores{
   display: flex; /* Use flexbox para alinhar os cards horizontalmente *//* Espaço uniformemente os cards */
   flex-wrap:wrap; 
-  margin-left: 10%;
+  margin-left: 2%;
   margin-bottom: 20px;
-  width: 85%;
+  width: 95%;
 }
 
 /*# sourceMappingURL=main.css.map */
